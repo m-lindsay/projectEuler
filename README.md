@@ -1,4 +1,4 @@
-title at the top
+PROJECT EULER README
 ===
 git push -u origin master
 
